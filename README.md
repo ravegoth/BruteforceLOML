@@ -46,10 +46,6 @@ After the program finishes, you can save the generated .txt files in a separate 
 
 You can delete the generated .txt files using [cleanup.py](./cleanup.py)
 
-## How does astrology compatibility work?
-
-Astrological compatibility, often explored in relationships, is based on the belief that the positions of celestial bodies at the time of birth can influence an individual's personality and fate. This compatibility is assessed using birth charts, which represent the positions of the sun, moon, planets, and stars at a specific time and place. By comparing and interpreting these charts, astrologers aim to understand how individuals interact with each other, focusing on aspects like emotional connection, communication styles, and overall relationship harmony. This ancient practice combines astronomical calculations with symbolic interpretation, offering insights into potential strengths and challenges in relationships.
-
 **Is it accurate?** In my perspective, the efficacy of this tool is undeniable, which is why I was motivated to create it in the first place. Initially developed for my personal use, I realized its potential benefits for others and therefore chose to share it publicly. This decision was driven by the hope that it might prove equally useful to others as it has been to me.
 
 ## How the script works
